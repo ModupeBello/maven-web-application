@@ -8,11 +8,10 @@
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
-<body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           Achievers group members are billion in the making
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<body bgcolor="#def28d">
+<h1 align="center">Achievers Group 18 is the Best - We rock.</h1>
+<h1 style="color: #731768;">
+<h2 align="center">Thank you all for your contribution. God bless you all </h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
